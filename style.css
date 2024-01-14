@@ -1,0 +1,17 @@
+table{
+    border-collapse: collapse;
+    margin: 10px 0;
+}
+
+table.users{
+    border-color: green;
+}
+
+th,td{
+    border: 1px solid black;
+    padding: 7px;
+}
+
+.heading{
+    color: red;
+}
